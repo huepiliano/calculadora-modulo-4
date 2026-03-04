@@ -1,0 +1,1 @@
+Esta aplicación de consola fue desarrollada en JavaScript como parte del Módulo 4. Permite realizar operaciones matemáticas básicas, utilizar estructuras condicionales y de repetición, trabajar con arreglos y objetos, y aplicar funciones para modularizar el código.
